@@ -1,0 +1,15 @@
+{
+  "name": "string-arithmetic-operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arithmeticOperations.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
